@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0ca277c-2b08-4073-aacd-0c28cc83f3ce" name="Changes" comment="system of poly eval method added">
-      <change afterPath="$PROJECT_DIR$/src/config.json" afterDir="false" />
+    <list default="true" id="f0ca277c-2b08-4073-aacd-0c28cc83f3ce" name="Changes" comment="basic config added, keygen file setup">
+      <change afterPath="$PROJECT_DIR$/src/field.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_supporting_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/_supporting_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/keygen.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/keygen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +53,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.FiniteField.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -88,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791583939619</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="basic config added, keygen file setup">
+      <option name="closed" value="true" />
+      <created>1791680623311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791680623311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="system of poly eval method added" />
-    <option name="LAST_COMMIT_MESSAGE" value="system of poly eval method added" />
+    <MESSAGE value="basic config added, keygen file setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic config added, keygen file setup" />
   </component>
 </project>
