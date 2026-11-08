@@ -3,5 +3,9 @@
   "v": 4,
   "o": 3,
   "m": 3,
-  "seed": 0
+  "seed": 0,
+  "num_samples": 100000,
+  "base": 16,
+  "include_key": false,
+  "separator": true
 }
