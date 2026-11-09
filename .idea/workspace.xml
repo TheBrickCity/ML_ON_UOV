@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0ca277c-2b08-4073-aacd-0c28cc83f3ce" name="Changes" comment="transformation map gen added in keygen.py">
-      <change afterPath="$PROJECT_DIR$/src/UOV_sample_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataset.py" afterDir="false" />
+    <list default="true" id="f0ca277c-2b08-4073-aacd-0c28cc83f3ce" name="Changes" comment="added sample generation and sample-&gt;dataset files">
+      <change afterPath="$PROJECT_DIR$/src/model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794088110251</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added sample generation and sample-&gt;dataset files">
+      <option name="closed" value="true" />
+      <created>1794102265966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1794102265966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +150,7 @@
     <MESSAGE value="switching to  galois field libaray" />
     <MESSAGE value="central map gen added in keygen.py" />
     <MESSAGE value="transformation map gen added in keygen.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="transformation map gen added in keygen.py" />
+    <MESSAGE value="added sample generation and sample-&gt;dataset files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sample generation and sample-&gt;dataset files" />
   </component>
 </project>
